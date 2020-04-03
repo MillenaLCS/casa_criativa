@@ -26,5 +26,6 @@
 <li> 4. Entre na pasta rodando pelo terminal: <i> cd casa_criativa;</i> </li>
 <li> 5. Rode <i>npm run dev </i>para iniciar o servidor de desenvolvimento.</li>
 
-
-:)
+ </br>
+ 
+> <a href="rocketseat.com.br"> ♥ Rocketseat. 2020 </a>

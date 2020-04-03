@@ -30,4 +30,4 @@
  </br>
  </br>
  </br>
-<ul> <a href="https://rocketseat.com.br"> ♥ Rocketseat. 2020 </a></ul>
+<ul> <a href="https://rocketseat.com.br" target="blank"> ♥ Rocketseat. 2020 </a></ul>

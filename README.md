@@ -27,5 +27,7 @@
 <li> 5. Rode <i>npm run dev </i>para iniciar o servidor de desenvolvimento.</li>
 
  </br>
- 
-> <a href="rocketseat.com.br"> ♥ Rocketseat. 2020 </a>
+ </br>
+ </br>
+ </br>
+> <a href="https://rocketseat.com.br"> ♥ Rocketseat. 2020 </a>

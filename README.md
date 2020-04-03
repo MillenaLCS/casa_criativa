@@ -1,6 +1,6 @@
 # <img src = "public/logo.png">
 
- <h4> Projeto desenvolvido durante o WorkshopDev da Rocketseat, com o intutito de expor e dá oportunidade de adicionar ideias (atividades) para se fazer durante a crise (quarentena). 💜 </h4>
+ <h4> Projeto desenvolvido durante o WorkshopDev da Rocketseat, com o intuito de expor e dá oportunidade de adicionar ideias (atividades) para se fazer durante a crise (quarentena). 💜 </h4>
  
  > <i> (Html, CSS, JS, SQL) </i>
    <hr />
